@@ -12,7 +12,7 @@ The project includes:
 ---
 
 ## 📂 Repository Structure  
-```plaintext
+
 ├── EDA.ipynb                          # Exploratory Data Analysis
 ├── Modelling.ipynb                    # Churn prediction models
 ├── Telco Customer Churn Analysis Report.docx   # Final analysis report
