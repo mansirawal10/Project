@@ -13,11 +13,13 @@ The project includes:
 
 ## 📂 Repository Structure  
 
-- EDA.ipynb                          # Exploratory Data Analysis
-- Modelling.ipynb                    # Churn prediction models
-- Telco Customer Churn Analysis Report.docx   # Final analysis report
-- WA_Fn-UseC_-Telco-Customer-Churn.csv        # Dataset
-- README.md                          # Project documentation
+| Folder/File         | Description                                      |
+|---------------------|--------------------------------------------------|
+| `EDA.ipynb`      | Exploratory Data Analysis      |
+| `Modelling.ipynb`         | Churn prediction models 
+| ` Telco Customer Churn Analysis Report.docx`       | Final analysis report        |
+| `WA_Fn-UseC_-Telco-Customer-Churn.csv`| Raw Dataset        |
+| ` README.md `| Project documentation        |
 
 ---
 
