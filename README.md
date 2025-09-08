@@ -17,9 +17,9 @@ The project includes:
 |---------------------|--------------------------------------------------|
 | `EDA.ipynb`      | Exploratory Data Analysis      |
 | `Modelling.ipynb`         | Churn prediction models 
-| ` Telco Customer Churn Analysis Report.docx`       | Final analysis report        |
+| `Telco Customer Churn Analysis Report.docx`       | Final analysis report        |
 | `WA_Fn-UseC_-Telco-Customer-Churn.csv`| Raw Dataset        |
-| ` README.md `| Project documentation        |
+| `README.md `| Project documentation        |
 
 ---
 
